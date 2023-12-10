@@ -8,9 +8,13 @@ import { Component, Input, OnInit } from '@angular/core';
 export class SmallCardComponent implements OnInit {
 
   @Input()
-  photoCover:string ="https://overplay.com.br/wp-content/uploads/2021/06/cod-mobile-2.jpg"
+  photoCover:string =""
+
   @Input()
-  cardTitle:string="Crossfire"
+  cardTitle:string=""
+
+  @Input()
+  Id:string="0"
 
   constructor(){}
 
