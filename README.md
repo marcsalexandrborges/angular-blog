@@ -1,6 +1,6 @@
 # AngularBlog
 
-![Imagem do Projeto](Imagens/readme.jpg)
+![Imagem do Projeto](readme.jpg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
